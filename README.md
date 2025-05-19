@@ -42,5 +42,5 @@ This dashboard tells a clear story about car resale trends, regional performance
 ---
 
 ## 📷 Screenshots
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot]([dashboard_screenshot.png](https://github.com/Deepu325/Data-Visualization-and-Storytelling/blob/main/image.png))
 
